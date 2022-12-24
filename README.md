@@ -1,2 +1,2 @@
 # HerdMan-Android
-android app for monitoring herds
+android app for managing herds
